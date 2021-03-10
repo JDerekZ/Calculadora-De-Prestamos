@@ -1,0 +1,10 @@
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\bin\Debug\CalculadoraDePrestamos.exe.config
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\bin\Debug\CalculadoraDePrestamos.exe
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\bin\Debug\CalculadoraDePrestamos.pdb
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.csprojAssemblyReference.cache
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.Properties.Resources.resources
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.csproj.GenerateResource.cache
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.csproj.CoreCompileInputs.cache
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.exe
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.pdb
+C:\Users\JDerek\Desktop\Unidad1-Programacion1\CalculadoraDePrestamos\obj\Debug\CalculadoraDePrestamos.FrmCalculadoraDePrestamos.resources
